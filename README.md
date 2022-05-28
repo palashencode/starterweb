@@ -23,6 +23,7 @@ standard deployable web application poc using spring-boot
   - [ ] Display Queue Depth and Queue Details
   - [ ] Page to submit messages to MQ
   - [ ] Consumer Page to see Consumed Messages
+- [ ] Setting up Apache HTTP Server as a frontend to Spring Boot.
 
 
 # Use Cases
