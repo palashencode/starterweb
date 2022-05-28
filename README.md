@@ -19,6 +19,10 @@ standard deployable web application poc using spring-boot
 - [ ] Connect and server open api weather data
 - [ ] Connect to external Soap Api via WSDL ( Jersey, JaxB )
 - [ ] Include XML Parsing POC using JAXB with Security
+- [ ] Spring boot with embedded Active MQ
+  - [ ] Display Queue Depth and Queue Details
+  - [ ] Page to submit messages to MQ
+  - [ ] Consumer Page to see Consumed Messages
 
 
 # Use Cases
