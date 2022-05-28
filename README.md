@@ -8,6 +8,7 @@ standard deployable web application poc using spring-boot
   - [ ] Post
 - [ ] Enable Swagger for Rest API
 - [X] Serve JSP Pages
+  - [ ] A Form Submission/Display Page ( data kept in-memory )
   - [ ] Display host information from Spring Boot App
   - [ ] Upload file to Remote server using Spring Boot Form
 - [ ] Junit and Mockito Examples
