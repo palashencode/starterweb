@@ -2,6 +2,10 @@
 
 standard deployable web application poc using spring-boot
 
+### URLS
+- http://localhost:65050/springweb/status
+- http://localhost:65050/springweb/home
+
 # Features
 - [ ] Serve Rest API
   - [X] Get
